@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Umaru Biango's Journal
+title: Umaru Biango
 
 # Your name to show in the footer
 author: Umaru Sahr Biango
@@ -14,7 +14,8 @@ author: Umaru Sahr Biango
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Blog"
+  Work: "Projects"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -39,10 +40,11 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "usbiango@gmail.com"
   facebook: deanattali
-  github: daattali
+  instagram: deanat78
   twitter: daattali
+  github: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
@@ -51,7 +53,6 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -78,7 +79,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+# url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -90,7 +91,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+#keywords: "my,personal,journal,of,keywords"
 
 # --- Colours / background image --- #
 
@@ -153,7 +154,7 @@ footer-link-col: "#404040"
 #disqus: ""
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
-#fb_comment_id: ""
+fb_comment_id: "239354897149837"
 
 # To use Utterances comments: (0) uncomment the following section, (1) fill in
 # "repository" (make sure the repository is public), (2) Enable Issues in your repository,
@@ -229,6 +230,7 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
