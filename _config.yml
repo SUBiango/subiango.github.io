@@ -14,7 +14,7 @@ author: Umaru Sahr Biango
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "https://subiango.github.io/"
+  Blog: "https://subiango.github.io/"
   Work: "Projects"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
