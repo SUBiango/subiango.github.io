@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Umaru Biango's Journal
 
 # Your name to show in the footer
-author: Some Person
+author: Umaru Sahr Biango
 
 # --- List of links in the navigation bar --- #
 
@@ -43,8 +43,8 @@ social-network-links:
   facebook: deanattali
   github: daattali
   twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+#  patreon: DeanAttali
+#  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
