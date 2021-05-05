@@ -14,8 +14,8 @@ author: Umaru Sahr Biango
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Blog: "https://subiango.github.io/"
-  Work: "Projects"
+  Blog: "/"
+  Projects: "Projects"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
