@@ -1,5 +1,5 @@
 ---
-title: "Ideas That Do Not Go Away"
+title: "An Idea I Had That Never Went Away"
 subtitle: "A brief story about how I got into tech"
 cover-img: /assets/img/blog/cover.jpg
 permalink: "/blog/ideas-that-do-not-go-away/"
