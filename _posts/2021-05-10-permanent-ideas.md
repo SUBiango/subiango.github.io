@@ -2,6 +2,7 @@
 title: "Ideas That Do Not Go Away"
 subtitle: "A brief story about how I got into tech"
 cover-img: /assets/img/blog/cover.jpg
+permalink: /blog/an-idea-that-never-went-away/
 tags: [journal, tech]
 comments: true
 date: 2021-05-10 09:45:00 -0500
